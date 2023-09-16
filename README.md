@@ -8,7 +8,7 @@ Stockholm is a cybersecurity tool designed for educational purposes. It simulate
 
 ## Features:
 
-- Targets the "infection" folder and its subfolders in the user's root directory.
+- Targets the "infection" folder and its subfolders in the user's root directory `~/infection`.
 - Searches for and "infects" files with specific extensions.
 - Generates a "key.key" file to store the decryption key. If this file already exists, the program will utilize the existing key.
 
