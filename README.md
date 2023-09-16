@@ -1,6 +1,6 @@
 # Stockholm v0.1 
 
-### Created during a cybersecurity bootcamp at 42 Barcelona by vaguilar
+### Created during a Cybersecurity Bootcamp at 42 Barcelona
 
 Stockholm is a cybersecurity tool designed for educational purposes. It simulates the behavior of ransomware by targeting specific file extensions, similar to the infamous Wannacry ransomware.
 
